@@ -1,4 +1,4 @@
-# AWS Centralized Logging Architecture
+#centralized-logging-architecture.png
 
 This repository showcases a self-designed centralized logging architecture on AWS. It demonstrates how to collect, process, and store logs from multiple application accounts into a central Log Archive account.
 
